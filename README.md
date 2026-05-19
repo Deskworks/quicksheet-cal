@@ -7,7 +7,7 @@
 In any QuickSheet cell:
 
 ```
-ext: github:cemheren/quicksheet-cal
+ext: github:Deskworks/quicksheet-cal
 ```
 
 ## Usage
